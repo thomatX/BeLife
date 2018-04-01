@@ -1,0 +1,15 @@
+C:\Users\Thomas Weisskapp\Desktop\Thomas\Universidad\VisualC#\ProyectoBeLife\BeLife\AppFront\bin\Debug\AppFront.exe.config
+C:\Users\Thomas Weisskapp\Desktop\Thomas\Universidad\VisualC#\ProyectoBeLife\BeLife\AppFront\bin\Debug\AppFront.exe
+C:\Users\Thomas Weisskapp\Desktop\Thomas\Universidad\VisualC#\ProyectoBeLife\BeLife\AppFront\bin\Debug\AppFront.pdb
+C:\Users\Thomas Weisskapp\Desktop\Thomas\Universidad\VisualC#\ProyectoBeLife\BeLife\AppFront\obj\Debug\AppFront.csprojResolveAssemblyReference.cache
+C:\Users\Thomas Weisskapp\Desktop\Thomas\Universidad\VisualC#\ProyectoBeLife\BeLife\AppFront\obj\Debug\MainWindow.g.cs
+C:\Users\Thomas Weisskapp\Desktop\Thomas\Universidad\VisualC#\ProyectoBeLife\BeLife\AppFront\obj\Debug\App.g.cs
+C:\Users\Thomas Weisskapp\Desktop\Thomas\Universidad\VisualC#\ProyectoBeLife\BeLife\AppFront\obj\Debug\AppFront_MarkupCompile.cache
+C:\Users\Thomas Weisskapp\Desktop\Thomas\Universidad\VisualC#\ProyectoBeLife\BeLife\AppFront\obj\Debug\AppFront_MarkupCompile.lref
+C:\Users\Thomas Weisskapp\Desktop\Thomas\Universidad\VisualC#\ProyectoBeLife\BeLife\AppFront\obj\Debug\MainWindow.baml
+C:\Users\Thomas Weisskapp\Desktop\Thomas\Universidad\VisualC#\ProyectoBeLife\BeLife\AppFront\obj\Debug\AppFront.g.resources
+C:\Users\Thomas Weisskapp\Desktop\Thomas\Universidad\VisualC#\ProyectoBeLife\BeLife\AppFront\obj\Debug\AppFront.Properties.Resources.resources
+C:\Users\Thomas Weisskapp\Desktop\Thomas\Universidad\VisualC#\ProyectoBeLife\BeLife\AppFront\obj\Debug\AppFront.csproj.GenerateResource.cache
+C:\Users\Thomas Weisskapp\Desktop\Thomas\Universidad\VisualC#\ProyectoBeLife\BeLife\AppFront\obj\Debug\AppFront.csproj.CoreCompileInputs.cache
+C:\Users\Thomas Weisskapp\Desktop\Thomas\Universidad\VisualC#\ProyectoBeLife\BeLife\AppFront\obj\Debug\AppFront.exe
+C:\Users\Thomas Weisskapp\Desktop\Thomas\Universidad\VisualC#\ProyectoBeLife\BeLife\AppFront\obj\Debug\AppFront.pdb

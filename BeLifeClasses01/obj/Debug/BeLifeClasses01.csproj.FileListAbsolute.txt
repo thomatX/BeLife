@@ -1,0 +1,6 @@
+C:\Users\Thomas Weisskapp\Desktop\Thomas\Universidad\VisualC#\ProyectoBeLife\BeLife\BeLifeClasses01\bin\Debug\BeLifeClasses01.dll
+C:\Users\Thomas Weisskapp\Desktop\Thomas\Universidad\VisualC#\ProyectoBeLife\BeLife\BeLifeClasses01\bin\Debug\BeLifeClasses01.pdb
+C:\Users\Thomas Weisskapp\Desktop\Thomas\Universidad\VisualC#\ProyectoBeLife\BeLife\BeLifeClasses01\obj\Debug\BeLifeClasses01.csprojResolveAssemblyReference.cache
+C:\Users\Thomas Weisskapp\Desktop\Thomas\Universidad\VisualC#\ProyectoBeLife\BeLife\BeLifeClasses01\obj\Debug\BeLifeClasses01.csproj.CoreCompileInputs.cache
+C:\Users\Thomas Weisskapp\Desktop\Thomas\Universidad\VisualC#\ProyectoBeLife\BeLife\BeLifeClasses01\obj\Debug\BeLifeClasses01.dll
+C:\Users\Thomas Weisskapp\Desktop\Thomas\Universidad\VisualC#\ProyectoBeLife\BeLife\BeLifeClasses01\obj\Debug\BeLifeClasses01.pdb

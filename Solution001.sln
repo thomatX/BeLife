@@ -5,6 +5,8 @@ VisualStudioVersion = 15.0.27428.1
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BeLifeClasses01", "BeLifeClasses01\BeLifeClasses01.csproj", "{8304000A-5F26-4ED0-8AA4-F092D0C652B5}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AppFront", "AppFront\AppFront.csproj", "{E7C2DF9E-9EDA-4604-9E93-F531B87450AC}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -15,6 +17,10 @@ Global
 		{8304000A-5F26-4ED0-8AA4-F092D0C652B5}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{8304000A-5F26-4ED0-8AA4-F092D0C652B5}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{8304000A-5F26-4ED0-8AA4-F092D0C652B5}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E7C2DF9E-9EDA-4604-9E93-F531B87450AC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E7C2DF9E-9EDA-4604-9E93-F531B87450AC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E7C2DF9E-9EDA-4604-9E93-F531B87450AC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E7C2DF9E-9EDA-4604-9E93-F531B87450AC}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

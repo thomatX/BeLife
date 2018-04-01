@@ -1,0 +1,53 @@
+﻿<Window x:Class="AppFront.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:AppFront"
+        mc:Ignorable="d"
+        Title="BeLife Manager" Height="720" Width="1100" Background="#ddd">
+    <Grid>
+        <Frame Content="" HorizontalAlignment="Left" Height="70" VerticalAlignment="Top" Width="1092" Background="#FFF"/>
+        <Frame Content="" Background="#FFF" HorizontalAlignment="Left" Height="620" Margin="0,70,0,0" VerticalAlignment="Top" Width="260"/>
+        <GridSplitter Background="#91469a" HorizontalAlignment="Left" Height="1100" Margin="544,-479,0,0" VerticalAlignment="Top" Width="1" RenderTransformOrigin="0.5,0.5">
+            <GridSplitter.RenderTransform>
+                <TransformGroup>
+                    <ScaleTransform/>
+                    <SkewTransform/>
+                    <RotateTransform Angle="90"/>
+                    <TranslateTransform/>
+                </TransformGroup>
+            </GridSplitter.RenderTransform>
+        </GridSplitter>
+        <Image Margin="386,0,636,619" Source="ClientesIcon.png" Stretch="Fill"/>
+        <Label Content="Gestionar Clientes" HorizontalAlignment="Right" Margin="0,19,490,0" VerticalAlignment="Top" FontSize="16" FontWeight="Bold" Foreground="#91469A"/>
+        <Image Margin="617,0,405,619" Source="ContratosIcon.png" Stretch="Fill"/>
+        <Label Content="Gestionar Contratos" HorizontalAlignment="Right" Margin="0,19,250,0" VerticalAlignment="Top" FontSize="16" FontWeight="Bold" Foreground="#FF91469A" RenderTransformOrigin="0.44,0.485"/>
+        <Image Margin="862,2,160,617" Source="DataSearchIcon.png" Stretch="Fill"/>
+
+        <Button Margin="0,93,852,535" Background="#FFF" BorderBrush="#FFF">
+            <StackPanel Orientation="Horizontal" Width="260">
+                <Image Margin="5,0,10,0" Height="47" Source="ClientAdd.png" Stretch="Fill" Width="43"/>
+                <TextBlock Text="Agregar Cliente" FontSize="25" Foreground="#91469A" Height="33"/>
+            </StackPanel>
+        </Button>
+
+        <Button Margin="0,159,852,469" Background="#FFF" BorderBrush="#FFF">
+            <StackPanel Orientation="Horizontal" Width="260">
+                <Image Margin="5,0,10,0" Height="47" Source="ClientDelete.png" Stretch="Fill" Width="43"/>
+                <TextBlock FontSize="25" Foreground="#91469A" Height="33"><Run Text="Eliminar"/><Run Text=" Cliente"/></TextBlock>
+            </StackPanel>
+        </Button>
+
+        <Button Margin="0,225,832,403" Background="#FFF" BorderBrush="#FFF">
+            <StackPanel Orientation="Horizontal" Width="260">
+                <Image Margin="5,0,10,0" Height="47" Source="ClientAdd.png" Stretch="Fill" Width="43"/>
+                <TextBlock FontSize="25" Foreground="#91469A" Height="33" Width="203"><Run Text="Modificar"/><Run Text=" Cliente"/></TextBlock>
+            </StackPanel>
+        </Button>
+
+        <Label Content="Buscador de Datos" HorizontalAlignment="Right" Margin="0,19,10,0" VerticalAlignment="Top" FontSize="16" FontWeight="Bold" Foreground="#FF91469A"/>
+        <Image Margin="33,10,879,633" Source="LogoBeLife.png" Stretch="Fill"/>
+
+    </Grid>
+</Window>
